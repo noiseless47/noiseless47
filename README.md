@@ -120,14 +120,15 @@ mindmap
 
 <div align="center">
 
-### 📊 Weekly Coding Stats
+### 📊 Real Coding Activity
 
-```text
-Flutter       ████████████████░░   80%
-React Native  ████████████░░░░░░   60%
-Node.js       ██████░░░░░░░░░░░   30%
-UI/UX Design  ████████░░░░░░░░░   40%
-```
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=noiseless47&layout=compact&theme=radical)](https://wakatime.com/@noiseless47)
+
+<!-- If you prefer manual stats based on your git commits -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noiseless47&layout=compact&theme=radical)](https://github.com/noiseless47)
+
+<!-- For detailed contribution graph -->
+![Coding Activity Graph](https://activity-graph.herokuapp.com/graph?username=noiseless47&theme=redical)
 
 <img src="https://komarev.com/ghpvc/?username=noiseless47&label=Profile%20Views&color=brightgreen" alt="Profile views"/>
 

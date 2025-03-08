@@ -100,7 +100,7 @@ mindmap
 | Fun Fact | Description |
 |----------|-------------|
 | 🏃‍♂️ Daily Routine | 1000 lines of code & 2 cups of coffee |
-| 🎮 Gaming Setup | PS5 & Custom PC Build Enthusiast |
+| 🎮 Gaming Setup | i7+RTX4060 & Custom PC Build Enthusiast |
 | 🌍 Travel Goal | Code from every continent |
 | 🎵 Coding Playlist | Lo-fi Beats & Synthwave |
 

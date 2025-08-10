@@ -23,7 +23,7 @@ I design and ship robust mobile experiences with a pragmatic, product-first appr
 
 <div align="center">
 
-<img src="./metrics.svg" alt="Dynamic GitHub Metrics" width="100%" />
+<img src="./metrics.png" alt="Dynamic GitHub Metrics" width="100%" />
 
 </div>
 

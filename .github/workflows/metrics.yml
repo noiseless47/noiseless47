@@ -26,7 +26,8 @@ jobs:
           config_timezone: Asia/Kolkata
           config_display: large
           config_theme: dark
-          filename: metrics.svg
+          config_output: png
+          filename: metrics.png
           output_action: commit
           committer_branch: main
           committer_message: "chore(metrics): update metrics"

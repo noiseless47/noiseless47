@@ -26,15 +26,15 @@ I design and ship robust mobile experiences with a pragmatic, product-first appr
 <table>
   <tr>
     <td>
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noiseless47&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noiseless47&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=00000000" />
     </td>
     <td>
-      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=noiseless47&theme=tokyonight&hide_border=true" />
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=noiseless47&theme=transparent&hide_border=true&background=00000000" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noiseless47&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=465" />
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noiseless47&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=8&card_width=465" />
     </td>
   </tr>
 </table>
@@ -45,12 +45,12 @@ I design and ship robust mobile experiences with a pragmatic, product-first appr
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noiseless47&theme=tokyonight" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noiseless47&theme=transparent" alt="Profile Details"/>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noiseless47&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noiseless47&theme=tokyonight" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noiseless47&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noiseless47&theme=transparent" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noiseless47&theme=transparent" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noiseless47&theme=transparent&utcOffset=5.5" alt="Productive Time"/>
   
 </p>
 
@@ -60,7 +60,7 @@ I design and ship robust mobile experiences with a pragmatic, product-first appr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=noiseless47&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noiseless47&bg_color=00000000&color=7aa2f7&line=58a6ff&point=f0f6fc&area=true&area_color=1f6feb33&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -69,7 +69,7 @@ I design and ship robust mobile experiences with a pragmatic, product-first appr
 <div align="center">
 
 <a href="https://wakatime.com/@noiseless47">
-  <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=noiseless47&layout=compact&range=last_7_days&theme=tokyonight&hide_border=true"/>
+  <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=noiseless47&layout=compact&range=last_7_days&theme=transparent&hide_border=true&bg_color=00000000"/>
   </a>
 
 </div>
@@ -78,13 +78,12 @@ I design and ship robust mobile experiences with a pragmatic, product-first appr
 
 <p>
   <a href="https://leetcode.com/u/noiseless47/">
-    <img alt="LeetCode Card" src="https://leetcard.jacoblin.cool/noiseless47?theme=dark&font=Source%20Sans%20Pro&ext=activity,contest&radius=8&border=0" />
+    <img alt="LeetCode Card" src="https://leetcard.jacoblin.cool/noiseless47?theme=dark&ext=contest&radius=10&border=0&bg=00000000" />
   </a>
 </p>
 
 <p>
-  <img alt="LeetCode Badge" src="https://img.shields.io/badge/LeetCode-Stats-0D1117?style=flat&logo=leetcode&logoColor=white&labelColor=0D1117&color=0D1117" />
-  <span style="color:#999">(live stats depend on third‑party APIs)</span>
+  <span style="color:#999">(LeetCode/WakaTime are third‑party and may rate-limit)</span>
 </p>
 
 <details>

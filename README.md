@@ -58,6 +58,10 @@ I design and ship robust mobile experiences with a pragmatic, product-first appr
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noiseless47&theme=github_dark">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noiseless47&theme=default" alt="Most Commit Language"/>
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noiseless47&theme=github_dark&utcOffset=5.5">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noiseless47&theme=default&utcOffset=5.5" alt="Productive Time"/>
+  </picture>
 </p>
 
 </div>

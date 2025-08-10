@@ -23,48 +23,19 @@ I design and ship robust mobile experiences with a pragmatic, product-first appr
 
 <div align="center">
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noiseless47&theme=github_dark">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noiseless47&theme=default" alt="Repos per Language"/>
-      </picture>
-      <br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noiseless47&theme=github_dark">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noiseless47&theme=default" alt="Most Commit Language"/>
-      </picture>
-      <br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noiseless47&theme=github_dark&utcOffset=5.5">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noiseless47&theme=default&utcOffset=5.5" alt="Productive Time"/>
-      </picture>
-    </td>
-    <td valign="top" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=noiseless47&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noiseless47&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333&icon_color=2f80ed">
-      </picture>
-      <br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=noiseless47&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&currStreakNum=58a6ff&sideLabels=c9d1d9&sideNums=58a6ff&dates=8b949e">
-        <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=noiseless47&theme=default&hide_border=true&background=ffffff&stroke=e1e4e8&ring=2f80ed&fire=2f80ed&currStreakLabel=333&currStreakNum=2f80ed&sideLabels=333&sideNums=2f80ed&dates=666">
-      </picture>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=noiseless47&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noiseless47&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333&icon_color=2f80ed">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=noiseless47&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&currStreakNum=58a6ff&sideLabels=c9d1d9&sideNums=58a6ff&dates=8b949e">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=noiseless47&theme=default&hide_border=true&background=ffffff&stroke=e1e4e8&ring=2f80ed&fire=2f80ed&currStreakLabel=333&currStreakNum=2f80ed&sideLabels=333&sideNums=2f80ed&dates=666">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noiseless47&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=445">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noiseless47&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333&langs_count=8&card_width=445">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noiseless47&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noiseless47&theme=default" alt="Profile Details"/>
 </picture>
 
 </div>

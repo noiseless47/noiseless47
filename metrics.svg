@@ -1,0 +1,15 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: none; }
+    .title { font: 700 28px 'Segoe UI', Roboto, Ubuntu, Sans-Serif; fill: #e6edf3; }
+    .subtitle { font: 400 16px 'Segoe UI', Roboto, Ubuntu, Sans-Serif; fill: #8b949e; }
+    .border { stroke: #30363d; stroke-width: 1.2; }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="1199" height="259" rx="10"/>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="10" class="border"/>
+  <g transform="translate(40, 60)">
+    <text class="title">GitHub Metrics</text>
+    <text class="subtitle" y="36">Generating your dynamic board… this placeholder will be replaced by the workflow shortly.</text>
+    <text class="subtitle" y="64">If this persists, run the “Metrics” workflow from the Actions tab.</text>
+  </g>
+</svg>

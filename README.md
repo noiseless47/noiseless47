@@ -23,43 +23,41 @@ I design and ship robust mobile experiences with a pragmatic, product-first appr
 
 <div align="center">
 
-<img src="./metrics.png" alt="Dynamic GitHub Metrics" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=noiseless47&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noiseless47&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333&icon_color=2f80ed">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=noiseless47&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&currStreakNum=58a6ff&sideLabels=c9d1d9&sideNums=58a6ff&dates=8b949e">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=noiseless47&theme=default&hide_border=true&background=ffffff&stroke=e1e4e8&ring=2f80ed&fire=2f80ed&currStreakLabel=333&currStreakNum=2f80ed&sideLabels=333&sideNums=2f80ed&dates=666">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noiseless47&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=445">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noiseless47&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333&langs_count=8&card_width=445">
+</picture>
 
 </div>
-
-<details>
-  <summary>Show standard cards (fallback)</summary>
-  <br/>
-  <div align="center">
-    <table>
-      <tr>
-        <td>
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noiseless47&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=00000000" />
-        </td>
-        <td>
-          <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=noiseless47&theme=transparent&hide_border=true&background=00000000" />
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" align="center">
-          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noiseless47&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=8&card_width=465" />
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
 
 ### Profile Summary Cards
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noiseless47&theme=transparent" alt="Profile Details"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noiseless47&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noiseless47&theme=default" alt="Profile Details"/>
+</picture>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noiseless47&theme=transparent" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noiseless47&theme=transparent" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noiseless47&theme=transparent&utcOffset=5.5" alt="Productive Time"/>
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noiseless47&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noiseless47&theme=default" alt="Repos per Language"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noiseless47&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noiseless47&theme=default" alt="Most Commit Language"/>
+  </picture>
 </p>
 
 </div>
@@ -68,7 +66,10 @@ I design and ship robust mobile experiences with a pragmatic, product-first appr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=noiseless47&bg_color=00000000&color=7aa2f7&line=58a6ff&point=f0f6fc&area=true&area_color=1f6feb33&hide_border=true" alt="Activity Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=noiseless47&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noiseless47&bg_color=ffffff&color=2f80ed&line=2f80ed&point=2f80ed&area=true&area_color=e3f2fd&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+</picture>
 
 </div>
 
@@ -76,9 +77,10 @@ I design and ship robust mobile experiences with a pragmatic, product-first appr
 
 <div align="center">
 
-<a href="https://wakatime.com/@noiseless47">
-  <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=noiseless47&layout=compact&range=last_7_days&theme=transparent&hide_border=true&bg_color=00000000"/>
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=noiseless47&layout=compact&range=last_7_days&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+  <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=noiseless47&layout=compact&range=last_7_days&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333"/>
+</picture>
 
 </div>
 

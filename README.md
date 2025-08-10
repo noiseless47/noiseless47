@@ -23,23 +23,31 @@ I design and ship robust mobile experiences with a pragmatic, product-first appr
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noiseless47&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=00000000" />
-    </td>
-    <td>
-      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=noiseless47&theme=transparent&hide_border=true&background=00000000" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noiseless47&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=8&card_width=465" />
-    </td>
-  </tr>
-</table>
+<img src="./metrics.svg" alt="Dynamic GitHub Metrics" width="100%" />
 
 </div>
+
+<details>
+  <summary>Show standard cards (fallback)</summary>
+  <br/>
+  <div align="center">
+    <table>
+      <tr>
+        <td>
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noiseless47&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=00000000" />
+        </td>
+        <td>
+          <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=noiseless47&theme=transparent&hide_border=true&background=00000000" />
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center">
+          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noiseless47&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=8&card_width=465" />
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
 
 ### Profile Summary Cards
 

@@ -20,9 +20,26 @@
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,nodejs,firebase,aws,androidstudio,figma&theme=dark" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,cpp,c,sql,dart&theme=dark" />
 </p>
+
+<p align="center">
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,bootstrap,django,flask,pytorch,tensorflow,keras,firebase,aws&theme=dark" />
+</p>
+
+<p align="center">
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=androidstudio,figma,linux,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Additional Skills:</b> Machine Learning • Deep Learning • Graph Neural Networks • Data Science • Framer Motion • Pandas • Scikit-learn • CUDA Programming
+</p>
+
 
 ---
 
